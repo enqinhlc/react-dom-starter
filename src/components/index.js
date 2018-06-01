@@ -1,5 +1,7 @@
-import Dashboard from './dashboard'
+import { Dashboard } from './dashboard'
+import Master from './master'
 
 export default {
-    Dashboard
+    Dashboard,
+    Master
 }

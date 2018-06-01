@@ -8,5 +8,5 @@ class Store {
 const DashboardStore = new Store();
 autorun(() => {
     console.log(DashboardStore.title);
-})
+});
 export default DashboardStore;

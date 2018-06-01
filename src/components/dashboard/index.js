@@ -1,5 +1,5 @@
-import Content from './content'
+import Dashboard from './dashboard'
 
 export {
-    Content
+    Dashboard
 }
